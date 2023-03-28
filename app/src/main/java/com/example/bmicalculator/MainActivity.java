@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         height = findViewById(R.id.ht);
         weight = findViewById(R.id.wt);
         BMI_display = findViewById(R.id.BMI);
+
         reset.setOnClickListener(new View.OnClickListener() {
 
 
